@@ -2,5 +2,8 @@
 let celsius = 30;
 
 // Start coding here;
-
+// (celsius x 1.8) + 32
 let fahrenheit;
+
+fahrenheit = celsius * 1.8 + 32;
+// console.log(fahrenheit);
